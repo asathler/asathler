@@ -3,9 +3,7 @@
 <div>
     <a href="https://github.com/asathler">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asathler&theme=merko&show_icons=true&include_all_commits=true&count_private=true&locale=pt-Br" />
-        <!--
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asathler&theme=merko&layout=compact&langs_count=8&locale=pt-Br" />
-        -->
     </a>
 </div>
 
