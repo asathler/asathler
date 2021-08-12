@@ -9,31 +9,26 @@
     </a>
 </div>
 
-<div>
-</div>
-
-<div style="display: inline_block; background-color: white;">
+<div style="display: inline_block;">
     <br />
     <!-- Linguagens -->
-    <img align="center" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-    <img align="center" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
-    <img align="center" title="Zend" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" />
-    <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
-    <img align="center" title="Bootstrap css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
-    <img align="center" title="Tailwind css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img align="center" title="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" />
-    <img align="center" title="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
+    <img height="40px" width="50px" align="center" title="PHP"           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Laravel"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Zend"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" />
+    <img height="40px" width="50px" align="center" title="HTML"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Bootstrap css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Tailwind css"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img height="40px" width="50px" align="center" title="jQuery"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" />
+    <img height="40px" width="50px" align="center" title="VueJs"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
     <!-- Bancos -->
-    <img align="center" title="MS Sql Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img align="center" title="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
-    <img align="center" title="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
-    <img align="center" title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
-    <img align="center" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
+    <img height="40px" width="50px" align="center" title="MS Sql Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Oracle"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+    <img height="40px" width="50px" align="center" title="Postgres"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+    <img height="40px" width="50px" align="center" title="MySql"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+    <img height="40px" width="50px" align="center" title="MongoDB"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
     <!-- Ferramentas -->
-    <img align="center" title="PHPStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg" />
-    <img align="center" title="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" />
-    <img align="center" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-    <img align="center" title="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" />
-    <img align="center" title="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-    <img align="center" title="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
+    <img height="40px" width="50px" align="center" title="PHPStorm"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Git"           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+    <img height="40px" width="50px" align="center" title="Composer"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" />
+    <img height="40px" width="50px" align="center" title="Trello"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
 </div>
