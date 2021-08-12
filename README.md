@@ -9,6 +9,8 @@
     </a>
 </div>
 
+## Linguagens, bancos de dados e ferramentas que adoto:
+
 <div style="display: inline_block;">
     <br />
     <!-- Linguagens -->
