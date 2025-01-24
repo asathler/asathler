@@ -1,3 +1,4 @@
+<!--
 ## Ambiente de desenvolvimento que adoto:
 
  📖 Linguagens | 🌎 Web | 📀 Bancos de Dados | 🛠 Ferramentas
@@ -6,7 +7,6 @@
 
 <br />
 
-<!--
 ### 📖 Linguagens e Frameworks
 
 <div style="display: inline_block;">
@@ -45,7 +45,6 @@
 </div>
 <br /><br />
 <br />
--->
 
 ## Status
 
@@ -57,4 +56,4 @@
         -->
     </a>
 </div>
-
+-->
